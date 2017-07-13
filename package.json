@@ -33,7 +33,7 @@
     "greenkeeper-postpublish": "^1.0.1",
     "nock": "^9.0.13",
     "nyc": "^11.0.0",
-    "pouchdb-adapter-http": "^6.1.0",
+    "pouchdb-adapter-http": "^6.3.2",
     "pouchdb-adapter-memory": "^6.1.0",
     "pouchdb-core": "^6.1.0",
     "pouchdb-replication": "^6.1.0",
